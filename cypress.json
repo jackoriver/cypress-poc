@@ -1,3 +1,7 @@
 {
-  "watchForFileChanges": false
+  "watchForFileChanges": false,
+  "baseUrl": "http://10.0.37.32:8000/",
+  "env": {
+    "apiUrl": "@10.0.37.32:8000/wp-json/wc/v3"
+  }
 }

@@ -1,8 +1,6 @@
 /// <reference types="cypress" />
 
-/// <reference types="cypress" />
-
-describe('Login functionality', () => {
+describe('Test the Home Page', () => {
   beforeEach(() => {
     cy.visit('http://10.0.37.32:8000/')
   })
